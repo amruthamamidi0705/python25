@@ -1,0 +1,5 @@
+#program for printing multiplication table using for
+
+n=int(input())
+for i in range(1,25):
+    print(n,"X",i,"=",n*i)
